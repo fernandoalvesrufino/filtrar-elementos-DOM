@@ -32,6 +32,7 @@ Estamos muito acostumados a utilizar sistemas de pesquisa no nosso dia a dia. Ma
 Desenvolvi um sistema de filtro para elementos DOM usando JavaScript puro. Um projeto bem simples, mas muito útil.
 Desenvolvi esse sistema baseado em um vídeo postado pela rocketseat no [YouTube](https://www.youtube.com/watch?v=p-hgFD2HJSc&t=1310s). Apenas dei uma leve mudada na aparência. 
 
+- [Acesse o projeto finalizado, online](https://fernandoalvesrufino.github.io/filtrar-elementos-DOM/)
 
 ## 📝 Licença
 
